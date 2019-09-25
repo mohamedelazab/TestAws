@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestAws</string>
+    <string name="capture_image">Capture</string>
+</resources>
